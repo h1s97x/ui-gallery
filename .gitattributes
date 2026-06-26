@@ -1,0 +1,10 @@
+# Enforce LF line endings (design previews use Unix-style line endings)
+* text=auto eol=lf
+
+# Keep HTML/CSS/JS as LF
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.svg text eol=lf
