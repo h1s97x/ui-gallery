@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "screensGenerated": 3,
+  "hasProductContext": true,
+  "inventedComponents": [],
+  "interactiveStatesRendered": true,
+  "primaryActionPerScreen": true,
+  "themeModes": [
+    "light",
+    "dark"
+  ],
+  "primaryNavigation": true,
+  "warnings": []
+}

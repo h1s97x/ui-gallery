@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.Spotlight-V100
+.Trashes
+
+# Image thumbnails
+._*
